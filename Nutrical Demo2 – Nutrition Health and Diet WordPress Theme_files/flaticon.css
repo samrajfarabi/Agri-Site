@@ -1,0 +1,98 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 17/06/2019 13:05
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff2") format("woff2"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="cspt-nutrical-icon-"]:before, [class*=" cspt-nutrical-icon-"]:before,
+[class^="cspt-nutrical-icon-"]:after, [class*=" cspt-nutrical-icon-"]:after {   
+	font-family: Flaticon;
+	font-style: normal;
+}
+
+.cspt-nutrical-icon-calcium:before { content: "\f100"; }
+.cspt-nutrical-icon-mango:before { content: "\f101"; }
+.cspt-nutrical-icon-food-and-restaurant:before { content: "\f102"; }
+.cspt-nutrical-icon-diet:before { content: "\f103"; }
+.cspt-nutrical-icon-woman:before { content: "\f104"; }
+.cspt-nutrical-icon-weightlifting:before { content: "\f105"; }
+.cspt-nutrical-icon-meditation:before { content: "\f106"; }
+.cspt-nutrical-icon-apple:before { content: "\f107"; }
+.cspt-nutrical-icon-grapes:before { content: "\f108"; }
+.cspt-nutrical-icon-tomato:before { content: "\f109"; }
+.cspt-nutrical-icon-pineapple:before { content: "\f10a"; }
+.cspt-nutrical-icon-fruits:before { content: "\f10b"; }
+.cspt-nutrical-icon-salad:before { content: "\f10c"; }
+.cspt-nutrical-icon-orange-juice:before { content: "\f10d"; }
+.cspt-nutrical-icon-grain:before { content: "\f10e"; }
+.cspt-nutrical-icon-banana:before { content: "\f10f"; }
+.cspt-nutrical-icon-fruit:before { content: "\f110"; }
+.cspt-nutrical-icon-fruit-1:before { content: "\f111"; }
+.cspt-nutrical-icon-waist:before { content: "\f112"; }
+.cspt-nutrical-icon-sneaker:before { content: "\f113"; }
+.cspt-nutrical-icon-stationary-bike:before { content: "\f114"; }
+.cspt-nutrical-icon-pin:before { content: "\f115"; }
+.cspt-nutrical-icon-pin-1:before { content: "\f116"; }
+.cspt-nutrical-icon-mail:before { content: "\f117"; }
+.cspt-nutrical-icon-email:before { content: "\f118"; }
+.cspt-nutrical-icon-call:before { content: "\f119"; }
+.cspt-nutrical-icon-headset:before { content: "\f11a"; }
+.cspt-nutrical-icon-tree:before { content: "\f11b"; }
+.cspt-nutrical-icon-growth:before { content: "\f11c"; }
+.cspt-nutrical-icon-fruit-2:before { content: "\f11d"; }
+.cspt-nutrical-icon-plant:before { content: "\f11e"; }
+.cspt-nutrical-icon-farmer:before { content: "\f11f"; }
+.cspt-nutrical-icon-farmer-1:before { content: "\f120"; }
+.cspt-nutrical-icon-carrot:before { content: "\f121"; }
+.cspt-nutrical-icon-sports-and-competition:before { content: "\f122"; }
+.cspt-nutrical-icon-fat:before { content: "\f123"; }
+.cspt-nutrical-icon-thigh:before { content: "\f124"; }
+.cspt-nutrical-icon-liposuction:before { content: "\f125"; }
+.cspt-nutrical-icon-doctor:before { content: "\f126"; }
+.cspt-nutrical-icon-bike:before { content: "\f127"; }
+.cspt-nutrical-icon-fruit-3:before { content: "\f128"; }
+.cspt-nutrical-icon-diet-1:before { content: "\f129"; }
+.cspt-nutrical-icon-milk:before { content: "\f12a"; }
+.cspt-nutrical-icon-treadmill:before { content: "\f12b"; }
+.cspt-nutrical-icon-pills:before { content: "\f12c"; }
+.cspt-nutrical-icon-fish:before { content: "\f12d"; }
+.cspt-nutrical-icon-cherry:before { content: "\f12e"; }
+.cspt-nutrical-icon-mangosteen:before { content: "\f12f"; }
+.cspt-nutrical-icon-peach:before { content: "\f130"; }
+.cspt-nutrical-icon-passion-fruit:before { content: "\f131"; }
+.cspt-nutrical-icon-grape:before { content: "\f132"; }
+.cspt-nutrical-icon-watermelon:before { content: "\f133"; }
+.cspt-nutrical-icon-strawberry:before { content: "\f134"; }
+.cspt-nutrical-icon-chronometer:before { content: "\f135"; }
+.cspt-nutrical-icon-no-drinks:before { content: "\f136"; }
+.cspt-nutrical-icon-burger:before { content: "\f137"; }
+.cspt-nutrical-icon-medicine:before { content: "\f138"; }
+.cspt-nutrical-icon-runner:before { content: "\f139"; }
+.cspt-nutrical-icon-yoga:before { content: "\f13a"; }
+.cspt-nutrical-icon-egg:before { content: "\f13b"; }
+.cspt-nutrical-icon-farming-tools:before { content: "\f13c"; }
+.cspt-nutrical-icon-farmer-2:before { content: "\f13d"; }
+.cspt-nutrical-icon-carrot-1:before { content: "\f13e"; }
+.cspt-nutrical-icon-cotton:before { content: "\f13f"; }
+.cspt-nutrical-icon-corn:before { content: "\f140"; }
+.cspt-nutrical-icon-wheat:before { content: "\f141"; }
+.cspt-nutrical-icon-vegetables:before { content: "\f142"; }
+.cspt-nutrical-icon-honeycomb:before { content: "\f143"; }
